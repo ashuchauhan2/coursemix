@@ -16,6 +16,7 @@ CourseMix is a modern web application that revolutionizes the course registratio
 - Smart schedule conflict detection
 - Visual timetable planner
 - Waitlist management
+- Targeted course suggestions
 
 ### 👤 Student Profile
 - Personalized dashboard
@@ -25,9 +26,9 @@ CourseMix is a modern web application that revolutionizes the course registratio
 
 ### 📊 Analytics
 - Schedule optimization suggestions
-- Course load analysis
+- Projected Graduation Date
 - Prerequisite tracking
-- Grade distribution insights
+- Degree progression tracker
 
 ## 🛠️ Technology Stack
 
@@ -103,18 +104,6 @@ npm run build
 npm start
 ```
 
-## 👥 Team Members
-
-| Name | Student ID |
-|------|------------|
-| Ashu Chauhan | 7001571 |
-| Avi Patel | 6741961 |
-| Fatima Abourida | 7119490 |
-| Jerome Uwaneme | 7141270 |
-| Olaoluwa Akanji | 6908776 |
-| Oreoluwa Akanji | 6910483 |
-| Russell Salacup | 7177884 |
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -132,7 +121,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The open-source community for providing excellent tools and libraries
 - Brock University <3
 - All contributors who have helped improve CourseMix
-
----
-
-Built with ❤️ by the CourseMix Team
